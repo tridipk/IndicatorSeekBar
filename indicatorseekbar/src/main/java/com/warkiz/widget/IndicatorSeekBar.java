@@ -1999,6 +1999,14 @@ public class IndicatorSeekBar extends View {
     }
 
 
+    public void setTrackProgressColor(int color){
+
+    }
+
+    public void setTrackBackgroundColor(int color){
+
+    }
+
     /*------------------API END-------------------*/
 
 
